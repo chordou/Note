@@ -1,2 +1,1 @@
-# Note
-note written by jupyternote book
+# NotemarkdownPictures: pictures that displayed in Pandas_notesGItUsage--documentation about how to use git to manage your respository
